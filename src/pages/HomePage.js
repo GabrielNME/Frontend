@@ -13,9 +13,9 @@ const HomePage = (props) => {
                         de hacerse ver, y poder entrar en el mundo de la escritura.
                     </p>
                     <p>
-                        Contamos con envios a todo el pais y 23 sedes en todo el país. ¡Esperamos poder establecer más
+                        Contamos con envios a todo el pais y 23 sedes en todo el país. ¡¡Esperamos poder establecer más
                         sedes
-                        para brindarles la mejor accesibilidad!
+                        para brindarles la mejor accesibilidad!!
                     </p>
                 </section>
                 <section className="medios">
