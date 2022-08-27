@@ -1,0 +1,32 @@
+ul{ 
+    margin-left:30px;
+}
+
+.Sedes{
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 16px;
+    margin:16px 0;
+    display: flex;
+    gap:32px;
+    align-items: center;
+}
+
+.Sedes .info h4{
+    font-weight: 500;
+    font-style: italic;
+    border-bottom: 1px solid #935C12;
+    padding-bottom: 10px;
+}
+.Sedes .info p{
+    font-size: 13px;
+}
+
+.Sedes img{
+    border-radius: 13px;
+    display: block;
+    max-width: 225px;
+}
+.Sedes:nth-child(even){
+    flex-direction: row-reverse;
+}
